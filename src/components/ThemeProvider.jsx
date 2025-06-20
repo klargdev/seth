@@ -1,0 +1,1 @@
+initialize supabase client configuration
